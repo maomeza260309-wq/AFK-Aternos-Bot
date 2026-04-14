@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sebasmc0909kkk-tSEP.aternos.me:11203",
-    "port":11203,
-    "version": "",
+    "ip": "sebasmc0909kkk-tSEP.aternos.me",
+    "port": 11203,
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
